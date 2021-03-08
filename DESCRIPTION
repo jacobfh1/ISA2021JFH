@@ -16,3 +16,5 @@ Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.1.1
 Imports: 
     magrittr
+URL: https://github.com/jacobfh1/ISA2021JFH
+BugReports: https://github.com/jacobfh1/ISA2021JFH/issues
